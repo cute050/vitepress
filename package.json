@@ -9,7 +9,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "keywords": [],
-  "author": "程序员小唐三",
+  "author": "程序员cute050",
   "license": "ISC",
   "devDependencies": {
     "vite": "^4.3.5",
