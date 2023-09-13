@@ -1,0 +1,19 @@
+{
+  "name": "tangsan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 8080",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "程序员小唐三",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.3.5",
+    "vitepress": "1.0.0-beta.6",
+    "vue": "^3.3.2"
+  }
+}
