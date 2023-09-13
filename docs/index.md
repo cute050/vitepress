@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: 程序员小唐三
+title: 程序员cute050
 titleTemplate: 一站式前端内容网站，包括学习路线、知识体系
 
 hero:
-  name: "程序员小唐三"
+  name: "程序员cute050"
   text: "一个前端技术爱好者"
   tagline: 一起探索前端的无限可能
   editLink: true
