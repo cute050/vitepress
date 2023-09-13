@@ -34,13 +34,13 @@ export default defineConfig({
         // 侧边栏
         sidebar,
         footer: {
-            message: '程序员小唐三的个人博客',
+            message: '程序员cute050的个人博客',
             copyright: '用心去做高质量的专业前端内容网站，欢迎 star ⭐ 让更多人发现'
         },
         algolia,
         socialLinks: [{
             icon: 'github',
-            link: 'https://github.com/QSXLtangsan',
+            link: 'https://github.com/cute050',
         }],
         docFooter: {
             prev: "上一篇文章",
