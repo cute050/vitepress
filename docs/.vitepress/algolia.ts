@@ -1,7 +1,7 @@
 export default {
-    appId: 'DFI844H1VC',
-    apiKey: '24d75b12b5c8f3e515db351a14dbbaf4',
-    indexName: 'xiaofei_tmp',
+    appId: 'Q36HLW4LI9',
+    apiKey: '708609db251522304e5822f894d00f89',
+    indexName: 'xiaofei',
     placeholder: '请输入关键词',
     translations: {
         button: {
