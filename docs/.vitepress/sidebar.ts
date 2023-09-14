@@ -11,6 +11,13 @@ export const sidebar = {
                     text: '🥨 2023年',
                     collapsed: true,
                     items: [
+                        {
+                            text: '学习笔记',
+                            collapsed: true,
+                            items: [
+                                {text: 'day01', link: '/components/study/day01.md'},
+                            ]
+                        },
                         {text: '1月', link: '/components/Learning-dynamics/2023年/1月.md'},
                         {text: '2月', link: '/components/Learning-dynamics/2023年/2月.md'},
                         {text: '3月', link: '/components/Learning-dynamics/2023年/3月.md'},
@@ -24,6 +31,7 @@ export const sidebar = {
                         {text: '11月', link: '/components/Learning-dynamics/2023年/11月.md'},
                         {text: '12月', link: '/components/Learning-dynamics/2023年/12月.md'},
                     ],
+
                 },
                 {
                     text: '🥯 2024年',
