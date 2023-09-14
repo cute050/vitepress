@@ -12,7 +12,7 @@ export const sidebar = {
                     collapsed: true,
                     items: [
                         {
-                            text: '学习笔记',
+                            text: '🍎 学习笔记',
                             collapsed: true,
                             items: [
                                 {text: 'day01', link: '/components/study/day01.md'},
