@@ -12,10 +12,17 @@ export const sidebar = {
                     collapsed: true,
                     items: [
                         {
-                            text: '🍎 学习笔记',
+                            text: '🍎 神领物流',
                             collapsed: true,
                             items: [
                                 {text: 'day01', link: '/components/study/day01.md'},
+                            ]
+                        },
+                        {
+                            text: '🍎 鱼OJ项目',
+                            collapsed: true,
+                            items: [
+                                {text: 'day01', link: '/components/OJ/第一期.md'},
                             ]
                         },
                         {text: '1月', link: '/components/Learning-dynamics/2023年/1月.md'},
