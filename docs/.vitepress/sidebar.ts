@@ -40,24 +40,6 @@ export const sidebar = {
                     ],
 
                 },
-                {
-                    text: '🥯 2024年',
-                    collapsed: true,
-                    items: [
-                        {text: '1月', link: '/components/Learning-dynamics/2024年/1月.md'},
-                        {text: '2月', link: '/components/Learning-dynamics/2024年/2月.md'},
-                        {text: '3月', link: '/components/Learning-dynamics/2024年/3月.md'},
-                        {text: '4月', link: '/components/Learning-dynamics/2024年/4月.md'},
-                        {text: '5月', link: '/components/Learning-dynamics/2024年/5月.md'},
-                        {text: '6月', link: '/components/Learning-dynamics/2024年/6月.md'},
-                        {text: '7月', link: '/components/Learning-dynamics/2024年/7月.md'},
-                        {text: '8月', link: '/components/Learning-dynamics/2024年/8月.md'},
-                        {text: '9月', link: '/components/Learning-dynamics/2024年/9月.md'},
-                        {text: '10月', link: '/components/Learning-dynamics/2024年/10月.md'},
-                        {text: '11月', link: '/components/Learning-dynamics/2024年/11月.md'},
-                        {text: '12月', link: '/components/Learning-dynamics/2024年/12月.md'},
-                    ],
-                },
             ]
         },
         {
