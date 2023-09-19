@@ -24,16 +24,16 @@ hero:
       
 features:
   - icon: 
-      src : "/icon/icon_js.svg"
-    title: JavaScript
-    details: JavaScript 是一种解释型语言
-    link: /components/JavaScript/
+      src : "/icon/icon_yuoj.svg"
+    title: 鱼OJ
+    details: 鱼OJ项目笔记
+    link: /components/OJ/
     linkText: 开始阅读
   - icon:
-      src : "/icon/icon_node.svg"
-    title: Node.js
-    details: 掌握它成为全栈大神
-    link: /components/Nodejs/
+      src : "/icon/icon_sl.svg"
+    title: 神领物流
+    details: 神领物流项目笔记
+    link: /components/study/
     linkText: 开始阅读
   - icon:
       src : "/icon/icon_vue.svg"
